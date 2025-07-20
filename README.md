@@ -1,6 +1,10 @@
-# 3rd Year IT Resource Hub
+# CMPG315 Resource Hub
 
-Welcome to my curated collection of study materials, projects, notes, and tools gathered throughout my 3rd Year. This repository is designed to help students, self-learners to find useful resources in one place.
+# 📡 CMPG315 – Computer Networks
+
+Welcome to my repository for **CMPG315: Computer Networks** at North-West University.  
+This repo contains a collection of curated resources and study notesI’ve gathered throughout the module to assist both myself and fellow students 🚀
+
 
 ---
 
@@ -16,7 +20,7 @@ Welcome to my curated collection of study materials, projects, notes, and tools 
   Software recommendations, tutorials, and online courses.
 
 - **Practice Exercises**  
-  Coding problems, SQL queries, networking labs, etc.
+  Past papers for great practice
 ---
 
 ## How to Use This Repo
