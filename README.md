@@ -3,7 +3,7 @@
 # 📡 CMPG315 – Computer Networks
 
 Welcome to my repository for **CMPG315: Computer Networks** at North-West University.  
-This repo contains a collection of curated resources and study notesI’ve gathered throughout the module to assist both myself and fellow students 🚀
+This repo contains a collection of curated resources and study notes I’ve gathered and made throughout the module  
 
 
 ---
